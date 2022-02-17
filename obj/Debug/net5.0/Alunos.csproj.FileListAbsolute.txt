@@ -1,0 +1,16 @@
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/bin/Debug/net5.0/Alunos
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/bin/Debug/net5.0/Alunos.deps.json
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/bin/Debug/net5.0/Alunos.runtimeconfig.json
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/bin/Debug/net5.0/Alunos.runtimeconfig.dev.json
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/bin/Debug/net5.0/Alunos.dll
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/bin/Debug/net5.0/ref/Alunos.dll
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/bin/Debug/net5.0/Alunos.pdb
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/obj/Debug/net5.0/Alunos.csproj.AssemblyReference.cache
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/obj/Debug/net5.0/Alunos.GeneratedMSBuildEditorConfig.editorconfig
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/obj/Debug/net5.0/Alunos.AssemblyInfoInputs.cache
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/obj/Debug/net5.0/Alunos.AssemblyInfo.cs
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/obj/Debug/net5.0/Alunos.csproj.CoreCompileInputs.cache
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/obj/Debug/net5.0/Alunos.dll
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/obj/Debug/net5.0/ref/Alunos.dll
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/obj/Debug/net5.0/Alunos.pdb
+/home/sarita/Documents/CursosProg/dotNET_DIO/Classes/Alunos/obj/Debug/net5.0/Alunos.genruntimeconfig.cache
