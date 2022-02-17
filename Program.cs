@@ -8,11 +8,8 @@ namespace Alunos
         {
             DadosAlunos[] alunos = new DadosAlunos[5];
             string opcaoUsuario = ObterOpcaoUsuario();
-            int indiceAlunos, numeroDeAlunos;
-            decimal mediaGeral, notaTotal;
-            Conceito conceitoGeral;
 
-            indiceAlunos = 0;
+            int indiceAlunos = 0;
             while (opcaoUsuario.ToUpper() != "X")
             {
                 switch (opcaoUsuario)
@@ -45,8 +42,8 @@ namespace Alunos
 
                         break;
                     case "3":
-                        notaTotal = 0;
-                        numeroDeAlunos = 0;
+                        decimal notaTotal = 0;
+                        int numeroDeAlunos = 0;
 
                         for (int i = 0; i < alunos.Length; ++i)
                         {
@@ -57,8 +54,9 @@ namespace Alunos
                             }
                         }
 
-                        mediaGeral = notaTotal/numeroDeAlunos;
+                        decimal mediaGeral = notaTotal/numeroDeAlunos;
 
+                        Conceito conceitoGeral;
                         if (mediaGeral < 2)
                             conceitoGeral = Conceito.E;
                         else if (mediaGeral < 4)
